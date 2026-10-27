@@ -1,4 +1,6 @@
-# Dylan Gallez | Materials & Systems Scientist
+# Dylan Gallez  
+
+**Materials & Systems Scientist**
 
 ---
 
