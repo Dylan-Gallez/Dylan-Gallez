@@ -14,7 +14,7 @@ Interdisciplinary scientist and systems engineer with expertise in materials sci
 ---
 
 ### Active R&D Projects
-* **Zusammen Operating System (ZOS):** Modular cybernetic orchestration platform connecting distributed sensing nodes, virtual machines, and physical actuators across local-first network architectures. - [ZusammenSystems.com](zusammensystems.com)
+* **Zusammen Operating System (ZOS):** Modular cybernetic orchestration platform connecting distributed sensing nodes, virtual machines, and physical actuators across local-first network architectures. - [ZusammenSystems.com](https://zusammensystems.com)
 * **Environmental Control & Sensor Arrays:** Custom IoT testbed hardware for real-time climate and environmental automation using MicroPython, NATS message routing, and OpenWrt edge deployments.
 
 > *Note: Open-source repositories, hardware schematics, and system architectures are actively being staged for public release.*
